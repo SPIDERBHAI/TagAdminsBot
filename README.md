@@ -19,7 +19,7 @@ Does not work if Admins try to use it!
 - Install virtualenv using `python3 -m pip install virtualenv`.
 - Fork or Clone the project using `git clone https://github.com/Skuzzers/TagAdminsBot.git`
 - Star ⭐ the repository!!
-- Installthe requirements using `python3 -m pip install -r requirements.txt`
+- Install the requirements using `python3 -m pip install -r requirements.txt`
 - Rename sample_config.py to config.py in `tagadmin` folder and fill in all the variables!
 - Run the bot using `python3 -m tagadmin`
 
